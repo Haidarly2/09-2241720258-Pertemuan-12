@@ -33,3 +33,22 @@
 > }
 > ```
 
+### Soal 2 - Tambahkan 5 warna lainnya sesuai keinginan Anda pada variabel colors tersebut.
+> ```dart
+> class ColorStream {
+>   final List<Color> colors = [
+>     Colors.blueGrey,
+>     Colors.amber,
+>     Colors.deepPurple,
+>     Colors.lightBlue,
+>     Colors.teal,
+>     Colors.red,
+>     Colors.cyan,
+>     Colors.green,
+>     Colors.black,
+>     Colors.pink,
+>   ];
+> }
+> ```
+
+### Soal 3 - 
