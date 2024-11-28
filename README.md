@@ -53,3 +53,8 @@
 
 ### Soal 3 - Jelaskan fungsi keyword yield* pada kode tersebut! Apa maksud isi perintah kode tersebut?
 > Kode tersebut membuat stream yang menghasilkan nilai setiap satu detik. Nilai yang dihasilkan adalah warna dari daftar `colors` berdasarkan indeks yang dihitung dari waktu `t` modul panjang daftar `colors`. Dengan kata lain, setiap detik, stream akan mengeluarkan warna berikutnya dalam daftar secara berurutan.
+
+### Soal 4 - Capture hasil praktikum Anda berupa GIF
+> [GIF](assets/01.gif)
+
+### Soal 5 - 
