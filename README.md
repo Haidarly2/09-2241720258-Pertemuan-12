@@ -60,6 +60,8 @@
 ### Soal 5 - Jelaskan perbedaan menggunakan listen dan await for
 > Listen digunakan untuk mendengarkan perubahan pada stream, sedangkan await for digunakan untuk menunggu nilai yang dihasilkan oleh stream. Jika stream tidak menghasilkan nilai, maka await for akan menunggu sampai stream menghasilkan nilai. Jika stream tidak menghasilkan nilai, maka listen akan terus mendengarkan perubahan pada stream.
 
+## Praktikum 2
+
 ### Soal 6 - Jelaskan maksud kode langkah 8 dan 10 tersebut! dan Capture hasil praktikum Anda berupa GIF
 > Proses penambahan kode tersebut adalah bagian dari sebuah aplikasi Flutter yang menggunakan Stream untuk mengelola data secara asinkron. Secara keseluruhan, kode ini menginisialisasi stream pada initState, mendengarkan perubahan pada stream, dan memperbarui state dengan nilai terbaru. Pada dispose, stream ditutup untuk membersihkan resource. Metode addRandomNumber digunakan untuk menambahkan angka acak ke dalam stream.
 > [GIF](assets/02.gif)
@@ -67,3 +69,13 @@
 ### Soal 7 - Jelaskan maksud kode langkah 13 sampai 15 tersebut!
 > Secara keseluruhan, kode ini menunjukkan bagaimana menangani event dan error pada stream di Dart, serta bagaimana memperbarui UI berdasarkan event atau error tersebut.
 > [GIF](assets/03.gif)
+
+## Praktikum 3
+
+### Soal 8 - Jelaskan maksud kode langkah 1-3 tersebut! dan Capture hasil praktikum Anda berupa GIF
+> Kode ini digunakan untuk memproses data dari stream, mengubah setiap nilai dengan mengalikannya dengan 10, dan menangani kesalahan dengan menetapkan nilai -1. Hasilnya kemudian digunakan untuk memperbarui state dalam aplikasi Flutter.
+> [GIF](assets/04.gif)
+
+## Praktikum 4
+
+### Soal 9 - 
