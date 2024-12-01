@@ -57,4 +57,7 @@
 ### Soal 4 - Capture hasil praktikum Anda berupa GIF
 > [GIF](assets/01.gif)
 
-### Soal 5 - 
+### Soal 5 - Jelaskan perbedaan menggunakan listen dan await for
+> Listen digunakan untuk mendengarkan perubahan pada stream, sedangkan await for digunakan untuk menunggu nilai yang dihasilkan oleh stream. Jika stream tidak menghasilkan nilai, maka await for akan menunggu sampai stream menghasilkan nilai. Jika stream tidak menghasilkan nilai, maka listen akan terus mendengarkan perubahan pada stream.
+
+### Soal 6
