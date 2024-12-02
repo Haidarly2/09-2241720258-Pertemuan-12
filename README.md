@@ -90,3 +90,13 @@
 ### Soal 11 - Jelaskan mengapa hal itu bisa terjadi? dan Capture hasil praktikum Anda berupa GIF
 > Menggunakan asBroadcastStream() memungkinkan stream Anda untuk mendukung banyak listener, itulah sebabnya kode berjalan normal ketika perubahan tersebut terjadi.
 > [GIF](assets/06.gif)
+
+## Praktikum 6
+
+### Soal 12 - Jelaskan maksud kode pada langkah 3 dan 7! dan Capture hasil praktikum Anda berupa GIF
+> kode diatas berguna untuk membuat stream dari banyak nomor random yang diupdate setiap detik.
+> [GIF](assets/07.gif)
+
+## Praktikum 7
+
+### Soal 13 - 
