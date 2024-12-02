@@ -78,4 +78,13 @@
 
 ## Praktikum 4
 
-### Soal 9 - 
+### Soal 9 - Jelaskan maksud kode langkah 2, 6 dan 8 tersebut! dan Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+> Kode ini mengatur aliran untuk menangani nomor acak, mendengarkan nomor baru dan kesalahan, dan memperbarui UI yang sesuai. Kode ini juga memastikan pembersihan yang tepat dengan membatalkan langganan saat widget dibuang.
+> [GIF](assets/05.gif)
+
+## Praktikum 5
+
+### Soal 10 - Jelaskan mengapa error itu bisa terjadi?
+> 
+
+### Soal 11 - Jelaskan mengapa hal itu bisa terjadi? dan Capture hasil praktikum Anda berupa GIF
