@@ -85,6 +85,8 @@
 ## Praktikum 5
 
 ### Soal 10 - Jelaskan mengapa error itu bisa terjadi?
-> 
+> Kesalahan terjadi karena percobaan listening streaming yang sama dengan beberapa listener. Di Dart, stream subscription tunggal hanya dapat memiliki satu listener aktif dalam satu waktu. Ketika mencoba menambahkan listener kedua, maka akan terjadi kesalahan.
 
 ### Soal 11 - Jelaskan mengapa hal itu bisa terjadi? dan Capture hasil praktikum Anda berupa GIF
+> Menggunakan asBroadcastStream() memungkinkan stream Anda untuk mendukung banyak listener, itulah sebabnya kode berjalan normal ketika perubahan tersebut terjadi.
+> [GIF](assets/06.gif)
